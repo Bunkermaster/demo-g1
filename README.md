@@ -1,2 +1,4 @@
 # demo-g1
-description
+Projet de demonstration git
+
+
